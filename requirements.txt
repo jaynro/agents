@@ -1,1 +1,4 @@
 google-genai[adk]
+jupyter
+ipykernel
+python-dotenv
